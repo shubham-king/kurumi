@@ -206,7 +206,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="🎟️ Chatting Group 🎟️",
-                             url="https://t.me/hiroiscool")
+                             url="https://t.me/chatting_officials")
                     ], 
                      [
                          InlineKeyboardButton(
